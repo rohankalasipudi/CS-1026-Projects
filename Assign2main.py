@@ -1,5 +1,5 @@
 # Import Volume module
-from Volume import cubeVolume, ellipsoidVolume
+from assign2volume import cubeVolume, ellipsoidVolume
 
 cube = []
 ellipsoid = []
